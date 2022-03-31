@@ -1,0 +1,38 @@
+.div0{
+    width: 20%; 
+    height: 860px;            
+    background: #454647;
+    color: rgb(255, 255, 255);
+}
+
+.div1{
+    width: 80%;
+    height: 215px;    
+    background: #a9e5f0;
+}
+
+.div2{
+    width: 80%;
+    height: 215px; 
+    background: #86ddc7;
+}
+.div3{
+    width: 80%;
+    height: 215px; 
+    background: #de94e7;
+}
+
+.div4{
+    width: 80%;
+    height: 215px; 
+    background: #cfad9e;
+}
+
+.div0, .div1, .div2, .div3, .div4 {
+  
+    float: left; 
+    padding: 20px;
+    min-height: 170px;
+    box-sizing: border-box;
+    
+}
