@@ -1,30 +1,38 @@
+body{
+    font: 14px sans-serif; 
+    margin: 0px;
+}
+
 .div0{
     width: 20%; 
-    height: 860px;            
+    height: 600px;            
     background: #454647;
     color: rgb(255, 255, 255);
 }
 
+.div0:hover{
+    color: black;
+}
 .div1{
     width: 80%;
-    height: 215px;    
+    height: 150px;    
     background: #a9e5f0;
 }
 
 .div2{
     width: 80%;
-    height: 215px; 
+    height: 150px; 
     background: #86ddc7;
 }
 .div3{
     width: 80%;
-    height: 215px; 
+    height: 150px; 
     background: #de94e7;
 }
 
 .div4{
     width: 80%;
-    height: 215px; 
+    height: 150px; 
     background: #cfad9e;
 }
 
@@ -32,7 +40,7 @@
   
     float: left; 
     padding: 20px;
-    min-height: 170px;
+    min-height: 150px;
     box-sizing: border-box;
     
 }
